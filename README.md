@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Salut++%F0%9F%91%8B+;je+suis+MAHAMADOU+ALI+Abdoul+razak+!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Un développeur de logiciels passionné</h3>
 
 <br/>
 
