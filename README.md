@@ -54,6 +54,7 @@ postgresql,mysql,flask,androidstudio," /><br>
 <h2 align="center">⚡ Statistiques ⚡</h2>
 <br>
 <div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lilraz70&theme=dark&hide_border=true&locale=fr" alt="GitHub Streak" /></a>
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=lilraz70&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
