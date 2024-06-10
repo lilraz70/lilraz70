@@ -18,7 +18,7 @@ mission full stack web ou mobile.
 
 🌱 J'apprends actuellement **Docker, Supabase, AWS**
 
-💬 Demandez-moi à propos de **Laravel, Flutter, Vuejs, Node.js, React, Firebase... ou de n'importe quoi [ici](https://github.com/lilraz70/lilraz70/issues)**
+💬 Demandez-moi à propos de **Laravel, Flutter, Vuejs, Node.js, React, Firebase... (https://github.com/lilraz70/lilraz70/issues)**
 
  </div>
  
